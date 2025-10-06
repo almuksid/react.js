@@ -1,8 +1,9 @@
 import './App.css'
 import BioData from './components/BioData'
 import UseStateHooks from './components/useStateHooks'
+
 function App() {
-  
+
   return (
     <>
       <hr />
