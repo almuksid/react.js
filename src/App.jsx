@@ -1,10 +1,15 @@
 import './App.css'
 import BioData from './components/BioData'
 import UseStateHooks from './components/useStateHooks'
+import TodoApp from './components/TodoApp'
+import NewTodoApp from './components/NewTodoApp'
 function App() {
   
   return (
     <>
+      {/* <NewTodoApp/> */}
+      <hr />
+      <TodoApp/>
       <hr />
       <UseStateHooks/>
       <hr />
